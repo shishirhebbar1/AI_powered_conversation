@@ -78,3 +78,5 @@ def record_audio(output_file, duration=5, chunk_size=1024, sample_format=pyaudio
     
 # Example usage:
 record_audio("output.wav", duration=15)
+
+#shashin
